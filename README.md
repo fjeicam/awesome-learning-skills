@@ -21,4 +21,4 @@ Please only add free resources that you've checked and are high quality.
 * Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer (https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0141032138) -  how the menthal athletes learn, review of memory techniques 
 
 **Software**
-* [Anki] (https://apps.ankiweb.net/) - flash cards software using spaced repetition method
+* [Anki](https://apps.ankiweb.net/) - flash cards software using spaced repetition method
