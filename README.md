@@ -17,4 +17,5 @@ Please only add free resources that you've checked and are high quality.
 * [Memorizing a programming language using spaced repetition software \| Derek Sivers](https://sive.rs/srs)
 
 **Books**
-* The First 20 Hours How To Learn Anything… Fast! by Josh Kaufmann (https://first20hours.com/) - great book on rapid learning just enough stuff to be productive in given topic
+* The First 20 Hours How To Learn Anything… Fast! by Josh Kaufmann (https://first20hours.com/) - book on rapid learning ,just enough stuff to be productive in given topic
+* Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer () -  how the menthal athletes learn, review of memory techniques 
