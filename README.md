@@ -19,3 +19,6 @@ Please only add free resources that you've checked and are high quality.
 **Books**
 * The First 20 Hours How To Learn Anything… Fast! by Josh Kaufmann (https://first20hours.com/) - book on rapid learning ,just enough stuff to be productive in given topic
 * Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer (https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0141032138) -  how the menthal athletes learn, review of memory techniques 
+
+**Software**
+* [Anki] (https://apps.ankiweb.net/) - flash cards software using spaced repetition method
