@@ -1,8 +1,8 @@
 # awesome-learning-skills
-This repo consits a list of resources regarding learning skills and techniques.
+This repo is a list of quality resources regarding learning skills and techniques. 
 
 ## Contributing
-Feel free to add courses, book titles, articles, software name and any other resource that you've think is valuable in the process of getting better at being efficient learner. 
+Feel free to add online courses, book titles, articles, software application names and any other resources that you verified and are sure are valuable in the process of getting better at being an efficient learner. 
 
 **Suggested dormat of an example entry:**
 * [ExampleCourseURL.com] (https://examplecourseurl.com) - short description (optional if not needed)
