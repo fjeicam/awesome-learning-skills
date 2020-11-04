@@ -1,5 +1,5 @@
 # awesome-learning-skills
-This repo is a list of quality resources regarding learning skills and techniques. 
+This repo is a list of quality resources regarding learning skills and techniques. Maing goal is to exchange experience by sharing resources with short description to help people find verified source of an information.
 
 ## Contributing
 Feel free to add online courses, book titles, articles, software application names and any other resources that you verified and are sure are valuable in the process of getting better at being an efficient learner. 
